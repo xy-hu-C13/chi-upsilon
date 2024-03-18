@@ -1,4 +1,4 @@
-- 👋 Hi, I’m X.Y. Hu (@chi-upsilon)
+- 👋 Hi, I’m X.Y. Hu
 - 👀 I’m interested in social sciences, especially social network analysis, education, and psychology
 - 🌱 I’m currently learning NLP, and getting familiar with python in general...
 - 💞️ I’m looking to collaborate on interesting projects in SNA
